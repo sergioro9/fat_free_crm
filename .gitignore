@@ -13,7 +13,8 @@ spec/reports
 spec/internal/public/avatars
 spec/internal/public/assets
 coverage/*
-db/*.sql*
+#db/*.sql*
+db/*.sqlite*
 log/*.log
 doc/
 vendor/bundle
